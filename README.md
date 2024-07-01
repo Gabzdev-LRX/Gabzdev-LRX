@@ -1,16 +1,25 @@
-## Hi there 👋
+――――――――――――――――――――――――――――――――――――――――――――――――――
 
-<!--
-**Gabzdev-LRX/Gabzdev-LRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆​ » Hello, Im Gabriel !
 
-Here are some ideas to get you started:
+• Pseudo Minecraft: *Gabriel__lrx*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚​ » Langue(s) de CODAGE:
+
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+
+### 📍​ » My Projects:
+
+» SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)*  
+
+
+### ☎️​ » Contact(s):
+
+*EMAIL* • `contact@gabzdev.fr`
+*DISCORD* • `gabriel__l`
+
+### 📈​ » Statistiques: 
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?usernameGabzdev-LRX&show_icons=true&theme=radical)
+
+――――――――――――――――――――――――――――――――――――――――――――――――――
