@@ -10,16 +10,16 @@
 
 ### 📍​ » My Projects:
 
-» SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)*  
+» Lyxiz: Maintenance. - *(https://www.lyxiz.fr)*    
 
 
 ### ☎️​ » Contact(s):
 
-*EMAIL* • `contact@gabzdev.fr`
-*DISCORD* • `gabriel__l`
+*EMAIL* • `contact@gabzdev.fr`    
+*DISCORD* • `gabriel__l`   
 
 ### 📈​ » Statistiques: 
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?usernameGabzdev-LRX&show_icons=true&theme=radical)
+?????    
 
 ――――――――――――――――――――――――――――――――――――――――――――――――――
