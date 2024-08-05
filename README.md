@@ -1,25 +1,30 @@
 ――――――――――――――――――――――――――――――――――――――――――――――――――
 
-### 🏆​ » Hello, Im Gabriel !
+### 🏆​ ▪ Salut, Je suis Gabriel !
 
-• Pseudo Minecraft: *Gabriel__lrx*
+» Pseudo: *Gabriel__lrx*   
+» Portfolio: *https://www.gabzdev.fr*    
 
-### 📚​ » Langue(s) de CODAGE:
+### 🎓​​ ▪ Projets:
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+» SinabsyMC 1.19 -- `(www.sinabsymc.fr)` -- Projet Fermé en 2021 -- *(Admin & Développeur)*           
+» Akalmy Mini Jeux 1.8 -- NOW: PEMPAWORLD.FR -- (*Ancien Développeur)*          
+» Lyxiz Mini Jeux 1.8 -- Responsable Developpement & Machines - ??? *(Toujours d'actualité)*            
 
-### 📍​ » My Projects:
+» Konosia ??? 1.8 -- *(Admin)* : Konosia arrive un jour t'inquiète pas le sang :D
 
-» Lyxiz: Maintenance. - *(https://www.lyxiz.fr)*    
+### 💻​​ ▪ Language Utilisé:
 
+» **Java: 100%**      
+» **JavaScript: 45%**      
+» **HTML & CSS: 15%**      
 
-### ☎️​ » Contact(s):
+» **MYSQL: 100%**      
+» **Redis: 85%**      
 
-*EMAIL* • `contact@gabzdev.fr`    
-*DISCORD* • `gabriel__l`   
+### 📧​​ ▪ Contact:
 
-### 📈​ » Statistiques: 
-
-?????    
+» Email PRO: `contact@gabzdev.fr`    
+» Discord: gabriel__l
 
 ――――――――――――――――――――――――――――――――――――――――――――――――――
